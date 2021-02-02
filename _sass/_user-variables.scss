@@ -1,0 +1,86 @@
+// 
+// user-variables.scss
+// Use this to overwrite Bootstrap and theme variables
+//
+
+// Example of a variable override to change theme's background color
+// Remove the "//" to comment it in and see it in action!
+// $body-bg: #12263F;
+
+// MatchMaker Colors
+$mm-red: #D9541E;
+$mm-green: #5D9732;
+$mm-blue: #0067B1;
+$mm-orange: #D18316;
+$mm-darkblue: #004374;
+$mm-lightblue: #006ebd;
+
+// Font sizes for titling
+$display1-size:               6rem;
+$display2-size:               5.5rem;
+$display3-size:               3.0rem;
+$display4-size:               1.5rem;
+
+$line-height-base:            1.4;
+$line-height-lg:              1.4;
+$line-height-sm:              1.4;
+
+$paragraph-margin-bottom:     1rem;
+
+$display1-size-sm: 3rem; // 48px
+$display2-size-sm: 3rem; // 48px
+$display3-size-sm: 2rem; // 40px
+$display4-size-sm: 1.5rem; // 36px
+
+// Principal Bootstrap colors
+$primary-dark:$mm-darkblue;
+$primary: $mm-blue;
+$primary-light: $mm-lightblue;
+$success: $mm-green;
+$warning: $mm-orange;
+$danger: $mm-red;
+$light: #F3F8FF;
+$dark: $mm-darkblue;
+
+$navbar-brand-font-size: $display3-size;
+
+.navbar {
+    background-color: white;
+}
+
+.mmcard img {
+    max-width: 45rem;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mm-hover {
+    text-decoration: underline;
+    color: $mm-darkblue;
+    cursor: pointer;
+}
+
+.card>:last-child {
+    margin-bottom: 0;
+}
+
+.mm-endorsements {
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.mm-endorsements>div {
+    margin: 0.25rem;
+    vertical-align: middle;
+}
+
+.mm-endorsements>div>img {
+    display: block;
+}
