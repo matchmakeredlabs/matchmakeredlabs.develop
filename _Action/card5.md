@@ -2,7 +2,7 @@
 title: Case Study
 menu: "Case #1"
 icon: blocks
-ordinal: 3
+ordinal: 5
 ---
 # Scenario-Poor Product Uptake Rate : Case-Next Sale Dependency
 
