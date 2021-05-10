@@ -1,6 +1,6 @@
 ---
 title: An Example of Product Development
-menu: "Next Sale Dependency"
+menu: "Product Development: Next Sale Dependency"
 icon: blocks
 ordinal: 1
 ---
