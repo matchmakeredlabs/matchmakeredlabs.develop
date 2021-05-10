@@ -1,21 +1,20 @@
 ---
-title: An Example of Job Transition
-menu: "Civilian to Military"
+title: "Product Development Use Case #2"
+menu: "Product Development: Multi-Market Selling"
 icon: blocks
-ordinal: 3
+ordinal: 2
 ---
-# Scenario: Job Transition - Case: Military to Civilian
+# Scenario-Product Development : Case Multi-Market Selling 
 
-### The Veteran's Administration’s HR provider integrates MatchMaker<br/>&<br/>with confidence, city governments, hospitals, & technical schools receive rapid access to qualified job candidates.
+### A K-12 publisher integrates MatchMaker to inform the development of a curricular offering<br/>&<br/>in order to purchase, each K-12 jurisdiction must independently certify how well their needs are met by the offering.
 
+Each year various states conduct textbook adoptions. While most states address largely the same standards, competencies, and skills, each jurisdiction documents their requirements using different language and organizational structure. Due to the nuanced differences between state and local curricular standards, the mapping of competencies, skills, and requirements across various jurisdictions has proven time consuming and costly for suppliers of learning resources and services. *Enter MatchMaker Education Labs:*
+![MatchMaker Publisher Align Content Diagram](/mmassets/MM-Example-Product.svg)
 
-Each year the Veterans Administration works diligently to place veterans into civilian roles. Even when there are known shortages in fields such as Emergency Medical Technicians (EMTs), military certified skills are often not readily accepted by organizations seeking to hire EMTs. *Enter MatchMaker Education Labs:*
+As a result of MatchMaker Education Labs’ rich matching technology, all parties in the standards alignment value chain win:
 
-![MatchMaker E M T Skills Match Diagram](/mmassets/MM-Example-EMT.svg)
+1. Suppliers of learning resources and services can cost-effectively customize product offerings to address each jurisdiction’s standards. MatchMaker enables CBL-suppliers to efficiently sell their offering into multiple markets.
+2. Jurisdictions can purchase offerings which transparently address their local needs.
+3. Instructors and students get access to learning resources that best address their state and local jurisdictional requirements.
 
-As a result of MatchMaker Education Labs’ rich matching technology, all parties win through superior certification alignment.
-
-1. The Veterans Administration successfully places veterans into civilian roles, as promised in the recruitment process.
-2. Civilian organizations (e.g., cities, hospitals, clinics, businesses, etc.) confidently hire qualified veterans (job candidates).
-3. Veterans (job candidates) seamlessly transition into the civilian job market.
 
