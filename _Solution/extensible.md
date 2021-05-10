@@ -1,6 +1,6 @@
 
 ---
-title: MatchMaker Education Labs, PBC
+title: "MatchMaker Education Labs, PBC"
 menu: "A Highly Extensible Solution"
 icon: blocks
 ordinal: 1
