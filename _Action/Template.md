@@ -2,7 +2,7 @@
 title: Template Title
 menu: Template
 icon: Design/Pixels
-ordinal: 1
+ordinal: 21
 ---
 
 This is the template for a page that goes under one of the three main menus:
