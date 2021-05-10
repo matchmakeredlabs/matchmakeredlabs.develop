@@ -1,5 +1,8 @@
 ---
-title: Card3
+title: Job Transition
+menu: The Competency-based Industry (CBLI)
+icon: blocks
+ordinal: 1
 ---
 # Scenario: Job Transition - Case: Military to Civilian
 
