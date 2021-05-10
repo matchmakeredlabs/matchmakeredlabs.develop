@@ -1,5 +1,5 @@
 ---
-title: An Example of Product Development
+title: "Product Development Use Case #1"
 menu: "Product Development: Next Sale Dependency"
 icon: blocks
 ordinal: 1
