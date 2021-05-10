@@ -1,6 +1,6 @@
 ---
 title: "MatchMaker Education Labs, PBC"
-menu: "An Extensible Solution"
+menu: "Strong Demand for MATCHES"
 icon: blocks
 ordinal: 1
 ---
