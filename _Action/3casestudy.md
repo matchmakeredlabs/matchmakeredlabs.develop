@@ -1,8 +1,8 @@
 ---
-title: An Example of Product Development
-menu: "Multi-Market Selling"
+title: "Product Development Use Case #2"
+menu: "Product Development: Multi-Market Selling"
 icon: blocks
-ordinal: 5
+ordinal: 2
 ---
 # Scenario-Product Development : Case Multi-Market Selling 
 
