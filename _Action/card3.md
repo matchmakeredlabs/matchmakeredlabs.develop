@@ -1,6 +1,6 @@
 ---
-title: Case Study
-menu: "Case #2"
+title: An Example of Job Transition
+menu: "Civilian to Military"
 icon: blocks
 ordinal: 3
 ---

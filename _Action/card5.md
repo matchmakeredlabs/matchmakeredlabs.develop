@@ -1,6 +1,6 @@
 ---
-title: Case Study
-menu: "Case #1"
+title: An Example of Product Development
+menu: "Next Sale Dependency"
 icon: blocks
 ordinal: 1
 ---
