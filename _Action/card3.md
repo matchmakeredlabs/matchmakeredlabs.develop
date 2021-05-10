@@ -1,8 +1,8 @@
 ---
-title: Job Transition
-menu: The Competency-based Industry (CBLI)
+title: Case Study
+menu: "Case #2"
 icon: blocks
-ordinal: 1
+ordinal: 3
 ---
 # Scenario: Job Transition - Case: Military to Civilian
 
