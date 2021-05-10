@@ -1,5 +1,8 @@
 ---
-title: Card4
+title: An Example of Product Development
+menu: "Multi-Market Selling"
+icon: blocks
+ordinal: 5
 ---
 # Scenario-Product Development : Case Multi-Market Selling 
 

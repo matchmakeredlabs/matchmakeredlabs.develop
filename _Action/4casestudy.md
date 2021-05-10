@@ -1,5 +1,8 @@
 ---
-title: Card6
+title: An Example of Institutional Requisites
+menu: "Credit Recognition"
+icon: blocks
+ordinal: 7
 ---
 # Scenario-Institutional Requisites : Case-Transfer Credit Recognition
 
