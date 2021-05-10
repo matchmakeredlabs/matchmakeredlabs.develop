@@ -1,12 +1,12 @@
 ---
 title: "MatchMaker Education Labs, PBC"
-menu: "A Highly Extensible Solution"
+menu: "An Extensible Solution"
 icon: blocks
 ordinal: 1
 ---
-# MatchMaker Education Labs  
+# MatchMaker Education Labs' Solution  
 
-### By contextualizing data, MatchMaker yields meaningful data relationships:<br/>**MatchMaking!**
+### yields meaningful data relationships by contextualizing data**
 
 ![MatchMaker Simple Diagram](/mmassets/MM-Simple.svg)
 
