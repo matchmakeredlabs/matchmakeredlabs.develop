@@ -6,7 +6,7 @@ ordinal: 1
 ---
 # MatchMaker Education Labs' Solution  
 
-### yields meaningful data relationships by contextualizing data**
+### yields meaningful data relationships by contextualizing data.
 
 ![MatchMaker Simple Diagram](/mmassets/MM-Simple.svg)
 
