@@ -1,6 +1,6 @@
 ---
 title: "Employee Hiring Use Case #1"
-menu: "Employee Hiring: Transition Civilian-->Military"
+menu: "Employee Hiring: A Military to Civilian Transition"
 icon: blocks
 ordinal: 3
 ---
