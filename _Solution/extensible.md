@@ -1,6 +1,9 @@
 
 ---
-title: Card6
+title: MatchMaker Education Labs, PBC
+menu: "A Highly Extensible Solution"
+icon: blocks
+ordinal: 1
 ---
 # MatchMaker Education Labs  
 

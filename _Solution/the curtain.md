@@ -1,5 +1,8 @@
 ---
-title: Card6
+title: MatchMaker Education Labs, PBC
+menu: "Behind the Curtain"
+icon: blocks
+ordinal: 3
 ---
 # MatchMaker: Behind the Curtain of Contextual Awareness
 
