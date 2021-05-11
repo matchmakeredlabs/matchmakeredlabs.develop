@@ -1,7 +1,7 @@
 ---
 title: "Candidate Selection Enablement:<br/>Recognition of Competencies Achieved"
 menu: "Candidate Selection: Credit Recognition"
-icon: blocks
+icon: star
 ordinal: 7
 ---
 # MatchMaker's Customers:<br/>Originating & Receiving Degree-/Credential-Granting Institutions
