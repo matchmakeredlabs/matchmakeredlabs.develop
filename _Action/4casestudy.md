@@ -6,7 +6,7 @@ ordinal: 7
 ---
 # MatchMaker's Customers:<br/>Originating & Receiving Degree-/Credential-Granting Institutions
 
-### Degree- and credential-granting institutions integrate Matchmaker into their course catalogs;<br/> In turn, both originating and receiving admissions offices are empowered to effectively acknowledge learner competencies.  
+### Degree- and credential-granting institutions integrate Matchmaker into their course catalogs;<br/> In turn, originating and receiving admissions offices are empowered to effectively acknowledge learner competencies.  
 
 A student pursuing a mechanical engineering degree at the University of Texas is relocating and is transferring to the University of Vermont. While both degree granting programs address the same competencies, each program documents those competencies using different language and structure. Today, there is no easy way to confidently map completed course credits from the University of Texas to credentialing credits that the University of Vermont will accept. *Enter MatchMaker Education Labs:*
 
