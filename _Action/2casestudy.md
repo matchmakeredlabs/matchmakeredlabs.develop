@@ -4,7 +4,7 @@ menu: "Product Development: Multi-Market Selling"
 icon: blocks
 ordinal: 2
 ---
-# Scenario-Product Development : Case Multi-Market Selling 
+# MatchMaker's Customer:<br/>A K-12 Publisher 
 
 ### A K-12 publisher integrates MatchMaker to inform the development of a curricular offering<br/>&<br/>in order to purchase, each K-12 jurisdiction must independently certify how well their needs are met by the offering.
 
