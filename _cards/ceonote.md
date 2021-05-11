@@ -1,9 +1,15 @@
 ---
 title: Card1
 ---
-# A NOTE from CEO
+# A Note from MatchMaker's CEO
 
-To date, mapping technologies used by competency-based learning organizations to map competency-based learning assets and frameworks (even when enhanced by machine learning and artificial intelligence) produce mappings of questionable quality. As a result, governments, organizations, institutions, and businesses that rely on accountability requirements have been reluctant to accept the legitimacy of the mappings produced by these technologies. The Competency-based Learning Industry is looking for a solution that produces actionable, accountable, and  transparent results, **meaningful matches**. *Enter MatchMaker Education Labs:*
+MatchMaker’s Mission is heartfelt and simple:
+
+<div class="text-center" style="text-decoration: underline;">**Liberate Learning!**</div>
+
+At MatchMaker Educaion Labs we are committed to each and every learner reaching their full potential and achieving their career dreams. As this goal clearly requires institutions, schools as well as companies, to better meet the unique needs of each learner (school or job applicant/candidate). Hence, MatchMaker consciously chose to enable such learning institutions to do better in terms of meeting learners needs while simultaneously acknowledging what they already know.
+
+ *Enter MatchMaker Education Labs:*
 
 <div class="text-center" style="text-decoration: underline;">MatchMaker's Customers' Competency-based Learning Assets and Frameworks</div>
 ![MatchMaker Function Diagram](/mmassets/MM-Simple-List.svg)
