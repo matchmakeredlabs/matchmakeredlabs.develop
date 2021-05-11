@@ -1,5 +1,5 @@
 ---
-title: "Product Development Use Case #1"
+title: "Product Development Example:<br/>Poor Product Uptake Rate with Next Sale Dependancy"
 menu: "Product Development: Next Sale Dependency"
 icon: blocks
 ordinal: 1
