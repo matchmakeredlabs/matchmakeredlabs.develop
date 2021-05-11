@@ -12,7 +12,7 @@ A student pursuing a mechanical engineering degree at the University of Texas is
 
 ![MatchMaker University Transfer Diagram](/mmassets/MM-Example-Transfer.svg)
 
-As a result of MatchMaker Education Labs’ rich matching technology, all parties in the credit transfer value chain win:
+As a result of MatchMaker Education Labs’ rich matching technology that enables our customers to optimize recommendation engines, all parties in the credit transfer value chain win:
 
 1. Both the originating and the receiving institutions know exactly how applicants measure up to each set of program requirements.
 2. With minimal institutional effort, students can continue working toward their degree while receiving credit for their prior work.

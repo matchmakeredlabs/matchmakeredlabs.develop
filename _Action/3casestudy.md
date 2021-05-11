@@ -13,7 +13,7 @@ Each year the Veterans Administration works diligently to place veterans into ci
 
 ![MatchMaker E M T Skills Match Diagram](/mmassets/MM-Example-EMT.svg)
 
-As a result of MatchMaker Education Labs’ rich matching technology, all parties win through superior certification alignment.
+As a result of MatchMaker Education Labs’ rich matching technology that produces a highly accurate gap analysis, all parties win through superior certification alignment.
 
 1. The Veterans Administration successfully places veterans into civilian roles, as promised in the recruitment process.
 2. Civilian organizations (e.g., cities, hospitals, clinics, businesses, etc.) confidently hire qualified veterans (job candidates).
