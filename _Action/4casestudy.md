@@ -1,6 +1,6 @@
 ---
 title: "Candidate Selection Example:<br/>Recognition of Competencies Achieved"
-menu: "Credit Recognition"
+menu: "Candidate Selection:Credit Recognition"
 icon: blocks
 ordinal: 7
 ---
