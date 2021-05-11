@@ -4,7 +4,7 @@ menu: "Candidate Selection: Credit Recognition"
 icon: blocks
 ordinal: 7
 ---
-# Scenario-Institutional Requisites : Case-Transfer Credit Recognition
+# MatchMaker's Customers:<br/>Disbursing and Receiving Degree- and Credential-granting Institutions
 
 ### Degree- and credential-granting institutions integrate Matchmaker into their course catalogs<br/>&<br/>both the originating and receiving admissions offices are empowered to effectively acknowledge learner competencies.  
 
