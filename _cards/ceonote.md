@@ -1,7 +1,7 @@
 ---
 title: Card1
 ---
-# A Note from MatchMaker's CEO
+# A Note from MatchMaker's CEO, Michael Jay
 
 MatchMaker’s Mission is heartfelt and simple:
 
