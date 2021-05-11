@@ -1,6 +1,6 @@
 ---
-title: "Candidate Selection: Use Case Military to Civilian Employment"
-menu: "Candidate Selection: Military to Civilian Transition"
+title: "Candidate Selection: Use Case Military to Civilian Employment Transition"
+menu: "Candidate Selection: Military to Civilian"
 icon: blocks
 ordinal: 3
 ---
