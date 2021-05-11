@@ -1,5 +1,5 @@
 ---
-title: An Example of Institutional Requisites
+title: "Candidate Selection Example:<br/>Institutional Recocnition of Competencies Achieved
 menu: "Credit Recognition"
 icon: blocks
 ordinal: 7
