@@ -14,7 +14,7 @@ An employee training platform company crafted an employee training program for t
 
 ![MatchMaker Locate Learning Resource Diagram](/mmassets/MM-Example-Learner.svg)
 
-As a result of MatchMaker Education Labs’ rich matching technology that produces a highly accurate gap analysis, all parties in learning pathway value chain win:
+As a result of MatchMaker Education Labs’ rich matching technology that enables our customers to produce a highly accurate gap analysis, all parties in learning pathway value chain win:
 
 1. The training platform company ensures that their compelling and pertinent content can be easily found in real-time in order to personalize each unique learning pathway.
 2. Employers find the best learning resources to address their Work Force Development (WFD) needs.
