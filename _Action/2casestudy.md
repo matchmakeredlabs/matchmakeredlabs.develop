@@ -1,5 +1,5 @@
 ---
-title: "Product Development Use Case #2"
+title: "Product Development Customer Enablement Example:<br/>Multi-Market Selling"
 menu: "Product Development: Multi-Market Selling"
 icon: blocks
 ordinal: 2
