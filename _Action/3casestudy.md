@@ -4,7 +4,7 @@ menu: "Candidate Selection: Military to Civilian"
 icon: blocks
 ordinal: 3
 ---
-# MatchMaker's Customers:<br/>The Veteran's Administration (VA) & The Recieiving Employer
+# MatchMaker's Customers:<br/>The Veteran's Administration (VA) & The Receiving Employer
 
 ### The Veteran's Administration’s HR organization integrates MatchMaker. In turn, with confidence,<br/>MatchMakered city governments, hospitals, & technical schools receive rapid access to qualified job candidates.
 
