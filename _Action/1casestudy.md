@@ -1,5 +1,5 @@
 ---
-title: "Product Development Example:<br/>Poor Uptake Rate - Next Sale Dependancy"
+title: "Product Development Customer Enablement Example:<br/>Poor Uptake Rate - Next Sale Dependancy"
 menu: "Product Development: Next Sale Dependency"
 icon: blocks
 ordinal: 1
