@@ -6,7 +6,7 @@ ordinal: 3
 ---
 # MatchMaker's Customers:<br/>The Veteran's Administration (VA) & The Recieiving Employer
 
-### The Veteran's Administration’s HR provider integrates MatchMaker<br/>&<br/>with confidence, city governments, hospitals, & technical schools receive rapid access to qualified job candidates.
+### The Veteran's Administration’s HR organization integrates MatchMaker;in turn, with confidence,<br/>MatchMakered city governments, hospitals, & technical schools receive rapid access to qualified job candidates.
 
 
 Each year the Veterans Administration works diligently to place veterans into civilian roles. Even when there are known shortages in fields such as Emergency Medical Technicians (EMTs), military certified skills are often not readily accepted by organizations seeking to hire EMTs. *Enter MatchMaker Education Labs:*
