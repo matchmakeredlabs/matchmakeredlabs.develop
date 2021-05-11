@@ -1,12 +1,12 @@
 ---
-title: "Product Development Example:<br/>Poor Uptake Rate with Next Sale Dependancy"
+title: "Product Development Example:<br/>Poor Uptake Rate - Next Sale Dependancy"
 menu: "Product Development: Next Sale Dependency"
 icon: blocks
 ordinal: 1
 ---
 # MatchMaker's Customer:<br/>An Employee Training Platform Company
 
-### A MatchMakered employee training platform company integrates and delivers a training program that meets<br/>all customer requirements. Notably, follow-on purchase, requires usage rates to exceed 70% per year.
+### A MatchMakered employee training platform company integrates and delivers a training program that <br/>meets all customer requirements. Notably, follow-on purchase, requires usage rates to exceed 70% per year.
 
 
 An employee training platform company crafted an employee training program for their top customer, a large retail chain. The training program addresses all of the customer’s requirements. Yet, it is not being widely used. The employer wants the ability to personalize training resources to provide instructors and students just-in-time access to just-the-right learning resources. Current in-market solutions fall short of being able to offer true personalized learning pathways. The result, employers and employees are unable find content which best address their organization’s training needs.
