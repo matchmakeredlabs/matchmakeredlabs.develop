@@ -1,5 +1,5 @@
 ---
-title: "Candidate Selection Example:<br/>Recognition of Competencies Achieved"
+title: "Candidate Selection Customer Enablement Example:<br/>Recognition of Competencies Achieved"
 menu: "Candidate Selection: Credit Recognition"
 icon: blocks
 ordinal: 7
