@@ -1,6 +1,6 @@
 ---
 title: Placeholder Page
-menu: Placeholder
+menu: Benefits
 icon: Design/Image
 ordinal: 5
 ---
