@@ -2,7 +2,7 @@
 title: "Candidate Selection Enablement:<br/>Military to Civilian Employment Transition"
 menu: "Candidate Selection: Military to Civilian"
 icon: position
-ordinal: 3
+ordinal: 1
 ---
 # MatchMaker's Customers:<br/>The Veteran's Administration (VA) & The Receiving Employer
 
