@@ -6,7 +6,7 @@ ordinal: 2
 ---
 # MatchMaker Education Labs' Solution  
 
-### delivers meaningful data relationships, i.e, matches, by empowering data with contexual awaress.
+### yields meaningful data relationships, i.e, MATCHES, by empowering data with contexual awaress.
 
 ![MatchMaker Simple Diagram](/mmassets/Solution-2extensible.svg){:.mm-graphic}
 
