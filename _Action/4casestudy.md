@@ -1,5 +1,5 @@
 ---
-title: "Candidate Selection Enablement:<br/>Recognition of Competencies Achieved"
+title: "Candidate Selection:<br/>Recognition of Competencies Achieved"
 menu: "Candidate Selection: Credit Recognition"
 icon: star
 ordinal: 7
