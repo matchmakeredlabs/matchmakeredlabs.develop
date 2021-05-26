@@ -4,7 +4,7 @@ menu: "Candidate Selection: Credit Recognition"
 icon: star
 ordinal: 7
 ---
-# MatchMaker's Customers:<br/>Originating & Receiving Degree- & Credential-Granting Institutions
+# MatchMaker's Customers:<br/>Originating & Receiving Degree & Credential Granting Institutions
 
 ### Degree- and credential-granting institutions integrate Matchmaker into their course catalogs.<br/> In turn, originating and receiving admissions offices are empowered to effectively acknowledge learner competencies.  
 
