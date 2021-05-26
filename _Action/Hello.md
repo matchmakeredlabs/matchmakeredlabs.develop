@@ -1,6 +1,6 @@
 ---
 title: Hello, World!
-menu: Hello
+menu: Trends
 icon: document
 ordinal: 13
 ---
