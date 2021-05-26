@@ -10,7 +10,7 @@ ordinal: 7
 
 A student pursuing a mechanical engineering degree at the University of Texas is relocating and is transferring to the University of Vermont. While both degree granting programs address the same competencies, each program documents those competencies using different language and structure. Today, there is no easy way to confidently map completed course credits from the University of Texas to credentialing credits that the University of Vermont will accept. *Enter MatchMaker Education Labs:*
 
-![MatchMaker University Transfer Diagram](/mmassets/MM-Example-Transfer.svg)
+![MatchMaker University Transfer Diagram](/mmassets/Action-4casestudy.svg){:.mm-graphic}
 
 As a result of MatchMaker Education Labs’ rich matching technology that enables our customers to produce a highly accurate gap analysis, all parties in the credit transfer value chain win:
 

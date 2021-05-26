@@ -12,7 +12,7 @@ ordinal: 1
 An employee training platform company crafted an employee training program for their top customer, a large retail chain. The training program addresses all of the customer’s requirements. Yet, it is not being widely used. The employer wants the ability to personalize training resources to provide instructors and students just-in-time access to just-the-right learning resources. Current in-market solutions fall short of being able to offer true personalized learning pathways. The result, employers and employees are unable find content which best address their organization’s training needs.
 *Enter MatchMaker Education Labs:*
 
-![MatchMaker Locate Learning Resource Diagram](/mmassets/MM-Example-Learner.svg)
+![MatchMaker Locate Learning Resource Diagram](/mmassets/Action-1casestudy.svg){:.mm-graphic}
 
 As a result of MatchMaker Education Labs’ rich matching technology that enables our customers to optimize recommendation engines, all parties in learning pathway value chain win:
 
