@@ -1,6 +1,6 @@
 ---
-title: "Product Development:<br/>Product Customization"
-menu: "Product Development: Enabling Multi-Market Selling"
+title: "Product Development:<br/>Multi-Market Selling"
+menu: "Product Development: Product Customization"
 icon: earth
 ordinal: 3
 ---
