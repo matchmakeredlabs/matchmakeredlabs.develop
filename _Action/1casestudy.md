@@ -1,5 +1,5 @@
 ---
-title: "Candidate Selection Enablement:<br/>Military to Civilian Employment Transition"
+title: "Candidate Selection:<br/>Employment Transition"
 menu: "Candidate Selection: Military to Civilian"
 icon: position
 ordinal: 1
