@@ -38,7 +38,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "Info"
+      type: "About"
     values:
       layout: "default"
 collections:
@@ -50,8 +50,8 @@ collections:
   Action:
     output: true
     permalink: /Action/:path.html
-  Info:
+  About:
     output: true
-    permalink: /Info/:path.html
+    permalink: /About/:path.html
 sass:
   sass_dir: _sass

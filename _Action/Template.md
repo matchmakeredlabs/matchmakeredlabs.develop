@@ -9,7 +9,7 @@ This is the template for a page that goes under one of the three main menus:
 
 * The MatchMaker Solution
 * MatchMaker In Action
-* Important Info
+* About Us
 
 Be sure to update the front matter correctly. Make sure the page title, the menu entry, the icon, and the ordinal number are filled in.
 
@@ -22,6 +22,6 @@ Place the file in one of the following folders:
 
 * **_Solution** To have it appear under the "MatchMaker Solution" menu
 * **_Action** To have it appear under the "MatchMaker In Action" menu
-* **_Info** To have it appear in the "Important Info" menu.
+* **_About** To have it appear in the "About Us" menu.
 
 * Available Icons
