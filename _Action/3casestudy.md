@@ -1,6 +1,6 @@
 ---
 title: "Product Development:<br/>Next Sale Dependancy Enabled"
-menu: "Product Development:<br/>Poor<br/>Uptake Rate"
+menu: "Product Development:<br/>Inadequate<br/>Uptake Rate"
 icon: Design/Pixels
 ordinal: 5
 ---
