@@ -4,7 +4,7 @@ menu: "Behind the Curtain"
 icon: blocks
 ordinal: 3
 ---
-# MatchMaker: Behind the Curtain of Contextual Awareness
+# MatchMaker: Behind the Curtain of Context Aware Data
 
 ![MatchMaker Complete Diagram](/mmassets/Solution-3thecurtain.svg){:.mm-graphic}
 
