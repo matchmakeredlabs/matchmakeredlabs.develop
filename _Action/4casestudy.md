@@ -1,6 +1,6 @@
 ---
 title: "Candidate Selection:<br/>Recognition of Competencies"
-menu: "Candidate Selection: Credit Recognition"
+menu: "Candidate Selection: Credit Acknowledgement"
 icon: star
 ordinal: 7
 ---
