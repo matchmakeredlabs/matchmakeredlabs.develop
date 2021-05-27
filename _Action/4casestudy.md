@@ -1,6 +1,6 @@
 ---
-title: "Candidate Selection:<br/>Legitimacy of Competencies"
-menu: "Candidate Selection:<br/>Credit Acknowledgement"
+title: "Candidate Selection:<br/>Legitimacy of Competencies Enabled"
+menu: "Candidate Selection:<br/>Credit Accountabiity"
 icon: star
 ordinal: 7
 ---
