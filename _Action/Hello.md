@@ -15,4 +15,4 @@ With all the above enhancements, MatchMaker’s customers can also offer ‘cert
 
 2. Recommendation Engine Results- MatchMaker takes the results of our customers’ existing engines to the next level. With context aware data in hand, our customers’ gain the ability to offer their customers just the right learning resource at just the right time.
 
-Stay tuned for more 'MatchMaker in Action' use-cases to come! 
+Stay tuned for more 'MatchMaker in Action' use-cases! 
