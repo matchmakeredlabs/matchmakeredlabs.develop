@@ -1,6 +1,6 @@
 ---
 title: MatchMaker a (B2B)2B Solution
-menu: Benefits
+menu: The Value Chain
 icon: Design/Image
 ordinal: 5
 ---
