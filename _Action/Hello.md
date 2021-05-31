@@ -1,6 +1,6 @@
 ---
 title: Growing Demand
-menu: Trends
+menu: Responding to CBLI Trends
 icon: document
 ordinal: 13
 ---
