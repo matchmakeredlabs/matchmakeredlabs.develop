@@ -15,5 +15,5 @@ Accelerated by the pandemic, market demand for personalization of learning exper
 
 2. Recommendation Engine Results- MatchMaker takes the results of our customers’ existing engines to the next level. With context aware data in hand, our customers’ gain the ability to offer their customers just the right learning resource at just the right time.
 
-<p class="text-center">Stay tuned for more 'MatchMaker in Action' use-cases! 
-<p class="text-center">Together with our customers, MatchMaker Education Labs strives to <strong>Liberate Learning</strong>!</p>
+<p class="text-center">Together with our customers, MatchMaker Education Labs strives to <strong>Liberate Learning</strong>!<br/>
+<p class="text-center">Stay tuned for more 'MatchMaker in Action'!</p>
