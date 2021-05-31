@@ -1,7 +1,7 @@
 ---
 title: MatchMaker a (B2B)2B Solution
 menu: The Value Chain
-icon: Design/Image
+icon: blocks
 ordinal: 5
 ---
 MatchMaker’s early B2B customers, Creators and Distributors of Learning Assets in the Competency-Based Learning Industry (PreK-Gray) will find:
