@@ -11,7 +11,7 @@ Accelerated by the pandemic, market demand for personalization of learning exper
     •	Sort and select candidates.<br/>
     •	Determine candidate unmet competencies.<br/>
 
-With all the above enhancements, MatchMaker’s customers can also offer ‘certificates of alignment’ that the market fully accepts as legitimate.
+    With all the above enhancements, MatchMaker’s customers can also offer ‘certificates of alignment’ that the market fully accepts as legitimate.
 
 2. Recommendation Engine Results- MatchMaker takes the results of our customers’ existing engines to the next level. With context aware data in hand, our customers’ gain the ability to offer their customers just the right learning resource at just the right time.
 
